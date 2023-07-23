@@ -1,6 +1,6 @@
 # photobooth_on_rasp
 ---
-#**Code này để nịnh cô chủ nhiệm**
+# **Code này để nịnh cô chủ nhiệm**
 1. Mô tả
    - Đây là một đoạn mã mô phỏng một cái photobooth trong mô lập trình nhúng của cô Thanh
 2. Thực hiện
