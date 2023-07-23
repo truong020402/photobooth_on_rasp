@@ -12,6 +12,7 @@
 
    - Cài đặt phần cứng
      - Enabled camera
+       
        ![enabled1](https://github.com/truong020402/photobooth_on_rasp/blob/main/pi-configuration-menu.png?raw=true)
 
        ![enbled2](https://github.com/truong020402/photobooth_on_rasp/blob/main/pi-configuration-interfaces-annotated.png?raw=true)
