@@ -20,3 +20,16 @@
        Hoặc
 
        ![enbled3](https://github.com/truong020402/photobooth_on_rasp/blob/main/Capture.PNG?raw=true)
+
+       Kiểm tra xem camera đã hoạt động hay chưa nếu in ra kết quả như màn hình là ok!
+
+       ![check camera](https://github.com/truong020402/photobooth_on_rasp/blob/main/Capture4.PNG?raw=true)
+
+      - Cài đặt phần mềm
+         - git clone https://github.com/truong020402/cv2_test1.git để tải về các file background và file detect khuôn mặt
+         - Có thể sửa chữ trên ảnh trong code
+
+3. Kết quả
+   - Sau khi nhấn nút camera sẽ chụp lại hình ảnh và detect ra khuông mặt để gắn thêm hình ảnh
+     ![kết quả](https://github.com/truong020402/photobooth_on_rasp/blob/main/1.png?raw=true)
+     
