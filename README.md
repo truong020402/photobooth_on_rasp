@@ -2,7 +2,7 @@
 ---
 # **Code này để nịnh cô chủ nhiệm**
 1. Mô tả
-   - Đây là một đoạn mã mô phỏng một cái photobooth trong mô lập trình nhúng của cô Thanh
+   - Đây là một đoạn mã mô phỏng một cái photobooth trong môn lập trình nhúng của cô Thanh
 2. Thực hiện
    - Lắp đặt phần cứng
      - lắp đặt picamera vào rasp
